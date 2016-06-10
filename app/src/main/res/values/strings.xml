@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Beacontrol</string>
+    <string name="banner">banner</string>
+    <string name="localizaci_n_iniciada">Localización iniciada</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+</resources>
